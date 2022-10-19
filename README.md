@@ -1,3 +1,3 @@
 # go-crud
 
-# CompileDaemon -command="./go-crud"
+CompileDaemon -command="./go-crud"
